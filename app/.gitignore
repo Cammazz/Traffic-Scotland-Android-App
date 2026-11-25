@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local configuration and credentials
+local.properties
+secrets.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Generated files
+*.apk
+*.aab
+.externalNativeBuild/
+.cxx/
+
+# Operating system files
+.DS_Store
+Thumbs.db
